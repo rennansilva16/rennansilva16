@@ -6,7 +6,7 @@
 
 ### Sou apaixonado por tecnologia e por isso decidi me ingressar nessa área.
 
-### Iniciei meus estudos em maio de 2023 e desde então tenho buscado cada vez mais conhecimento no desenvolvimento de softwares onde busco minha primeira oportunidade de trabalho.
+### Iniciei meus estudos em maio de 2023 e desde então tenho buscado cada vez mais conhecimento no desenvolvimento de softwares.
 
 ## Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/rennan-a-b22a37138/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/rennan_silva16/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rennansilva16)
