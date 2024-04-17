@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou o Rennan</h1>
 <h3 align="center">Sou estudante de Análise e Desenvolvimento de Sistemas no UniCEUB.</h3>
 
-- 🧑‍💻 Atualmente estou trabalhando com Desenvolvimento de projetos Front-End, sendo o mais atual, a criação de uma Pokédex utilizando API. **[Pòkedex](https://rennansilva16.github.io/pokedex/)**
+- 🧑‍💻 Atualmente estou trabalhando com Desenvolvimento de projetos Front-End, sendo o mais atual, a criação de uma Pokédex utilizando API. **[Pokédex](https://rennansilva16.github.io/pokedex/)**
 
 - 👨‍🎓 No momento, estou aprendendo **HTML, JavaScript, CSS, Java, Angular**
 
