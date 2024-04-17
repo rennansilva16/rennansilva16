@@ -5,7 +5,7 @@
 
 - 👨‍🎓 No momento, estou aprendendo **HTML, JavaScript, CSS, Java, Angular**
 
-- 🛠️ Outro projeto que desenvolvi recentemente foi uma página do GTAV, com o objetivo de aprender mais sobre estilização utilizando o CSS. **Página do GTAV**
+- 🛠️ Outro projeto que desenvolvi recentemente foi uma página do GTAV, com o objetivo de aprender mais sobre estilização utilizando o CSS. **[Página do GTAV](https://rennansilva16.github.io/projeto-gta-v/)**
 
 - 💬 Também já tive contato com **Machine Learning, Python e C.**
 
