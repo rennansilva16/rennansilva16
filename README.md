@@ -1,21 +1,44 @@
-<h1 align="center">Olá 👋, Eu sou o Rennan</h1>
-<h3 align="center">Sou estudante de Análise e Desenvolvimento de Sistemas no UniCEUB.</h3>
+# Olá 👋, eu sou o Rennan
 
-- 🧑‍💻 Atualmente estou trabalhando com Desenvolvimento de projetos Front-End, sendo o mais atual, a criação de uma Pokédex utilizando API. **[Pokédex](https://rennansilva16.github.io/pokedex/)**
+### Desenvolvedor de aplicações web com foco no ecossistema .NET
 
-- 👨‍🎓 No momento, estou aprendendo **HTML, JavaScript, CSS, Java, Angular**
+Atuo no desenvolvimento de aplicações web utilizando o ecossistema .NET, com foco em APIs, arquitetura bem definida e boas práticas de programação.
 
-- 🛠️ Outro projeto que desenvolvi recentemente foi uma página do GTAV, com o objetivo de aprender mais sobre HTML, CSS e JavaScript. **[Página do GTAV](https://rennansilva16.github.io/projeto-gta-v/)**
+---
 
-- 💬 Também já tive contato com **Machine Learning, Python e C.**
+## 👨‍💻 Sobre mim
 
-- 📫 Você pode falar comigo através do meu e-mail **rennan.da.silva1612@gmail.com**
+Sou desenvolvedor com experiência em **C# e ASP.NET Core**, atuando na criação de **APIs REST**, organização de aplicações utilizando **MVC** e separação de responsabilidades, sempre buscando código limpo e de fácil manutenção.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rennansilva16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rennansilva16/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/mais1programador_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mais1programador_/" height="30" width="40" /></a>
-</p>
+Tenho experiência com **persistência de dados utilizando Entity Framework**, além de modelagem e integração com **bancos de dados relacionais**, como **SQL Server, MySQL e PostgreSQL**. No dia a dia, aplico **Clean Code e princípios SOLID**, visando soluções consistentes e preparadas para evolução.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Também possuo vivência com **integração entre front-end e back-end**, compreendendo o fluxo completo de uma aplicação web, o que contribui para a construção de soluções mais eficientes e bem alinhadas às necessidades do produto.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- **Back-end:** C#, ASP.NET Core, APIs REST, MVC  
+- **Banco de dados:** SQL Server, MySQL, PostgreSQL, Entity Framework  
+- **Front-end:** Blazor, Angular, HTML, CSS, JavaScript, Bootstrap  
+- **Versionamento:** Git  
+- **Boas práticas:** Clean Code, SOLID
+
+---
+
+## 📌 Projetos em destaque
+
+- **Pokédex** – Aplicação web consumindo API externa  
+  🔗 https://rennansilva16.github.io/pokedex/
+
+- **Página GTA V** – Projeto focado em estruturação e interação front-end  
+  🔗 https://rennansilva16.github.io/projeto-gta-v/
+
+*(Outros projetos e estudos podem ser encontrados nos repositórios.)*
+
+---
+
+## 📫 Contato
+
+- Email: **rennan.da.silva1612@gmail.com**
+- LinkedIn: https://www.linkedin.com/in/rennansilva16/
