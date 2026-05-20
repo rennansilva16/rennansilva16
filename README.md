@@ -28,13 +28,11 @@ Também possuo vivência com **integração entre front-end e back-end**, compre
 
 ## 📌 Projetos em destaque
 
-- **Pokédex** – Aplicação web consumindo API externa  
+- **TaskFlow** – Aplicação web de gerenciamento de tarefas (estilo Kanban) com arquitetura separada (Blazor WebAssembly + API ASP.NET Core + Entity Framework)
+  🔗 https://github.com/rennansilva16/task-flow
+
+- **Pokédex** – Aplicação web consumindo API externa para listagem e visualização de Pokémon
   🔗 https://rennansilva16.github.io/pokedex/
-
-- **Página GTA V** – Projeto focado em estruturação e interação front-end  
-  🔗 https://rennansilva16.github.io/projeto-gta-v/
-
-*(Outros projetos e estudos podem ser encontrados nos repositórios.)*
 
 ---
 
